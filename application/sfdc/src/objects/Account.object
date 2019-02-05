@@ -107,7 +107,7 @@
     </fields>
     <fields>
         <fullName>CustomerPriority__c</fullName>
-        <description>XYZ122</description>
+        <description>ABCDE</description>
         <externalId>false</externalId>
         <label>Customer Priority</label>
         <required>false</required>
